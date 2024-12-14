@@ -28,7 +28,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - MOULIDHAR (212223240042)</title>
+    <title>SLOT TIME TABLE - VISHNU </title>
     <style>
         table {
             border-collapse: collapse;
